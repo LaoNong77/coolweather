@@ -5,7 +5,7 @@ public class Province {
 	private String provinceName;
 	private String provinceCode;
 	
-	public int getId(){
+	public int getId(){ 
 		return id;
 	}
 	public void setId(int id){
